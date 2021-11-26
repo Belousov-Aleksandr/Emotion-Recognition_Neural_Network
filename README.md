@@ -4,3 +4,9 @@
 Дополнительно были исследованы предобученные модели Inception_ResNet_V2, Ganeval-cifar10-convnet, Inception_V3, EfficientNet_B7, Mobilenet_v3, применялись разные типы оптимизаторов (напр.SGD, RMSProp), варьировались входящие размеры изображений, количество эпох и т.п. с целью достижения наивысшего Privte Scor, который в итоге составил 0.54.
 
 Part 1 - https://github.com/Belousov-Aleksandr/Emotion-Recognition_Neural_Network/blob/main/Диплом_Neural_Network%20-%20Part1.%20EDA.ipynb
+
+Part 2 - https://github.com/Belousov-Aleksandr/Emotion-Recognition_Neural_Network/blob/main/Диплом_Neural_Network%20-%20Part2.%20ML.ipynb
+
+Part 3 - https://github.com/Belousov-Aleksandr/Emotion-Recognition_Neural_Network/blob/main/Диплом_Neural_Network%20-%20Part3.%20Valence_Arousal.ipynb
+
+Part 4 - https://github.com/Belousov-Aleksandr/Emotion-Recognition_Neural_Network/blob/main/Диплом_Neural_Network%20-%20Part4.%20Camera_streaming.ipynb
